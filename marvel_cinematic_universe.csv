@@ -1,0 +1,37 @@
+property_id,property,media,universe,code,franchise,us_release_date,director,phase,has_tony_stark,bool_covid,gross_domestic,gross_other,gross_world,budget,score_rotten_tomatoes,score_metacritic,score_cinemascore
+1,Iron Man,Film,MCU,IM,Iron Man,5/2/08,Jon Favreau,One,Y,0,318604126,266762121,585366247,140000000,0.94,79,A
+2,The Incredible Hulk,Film,MCU,H,Hulk,6/13/08,Louis Leterrier,One,N,0,134806913,129964083,264770996,150000000,0.67,61,A−
+3,Iron Man 2,Film,MCU,IM2,Iron Man,5/7/10,Jon Favreau,One,Y,0,312433331,311500000,623933331,200000000,0.73,57,A
+4,Thor,Film,MCU,T,Thor,5/6/11,Kenneth Branagh,One,N,0,181030624,268295994,449326618,150000000,0.77,57,B+
+5,Captain America: The First Avenger,Film,MCU,CA,Captain America,7/22/11,Joe Johnston,One,N,0,176654505,193915269,370569774,140000000,0.8,66,A−
+6,Marvel's The Avengers,Film,MCU,A,Avengers,5/4/12,Joss Whedon,One,Y,0,623357910,895455078,1518812988,220000000,0.91,69,A+
+7,Iron Man 3,Film,MCU,IM3,Iron Man,5/3/13,Shane Black,Two,Y,0,409013994,805797258,1214811252,178400000,0.79,62,A
+8,Thor: The Dark World,Film,MCU,T2,Thor,11/8/13,Alan Taylor,Two,N,0,206362140,438421000,644783140,152700000,0.66,54,A−
+9,Captain America: The Winter Soldier,Film,MCU,CA2,Captain America,4/4/14,Anthony and Joe Russo,Two,N,0,259766572,454654931,714421503,177000000,0.9,70,A
+10,Guardians of the Galaxy,Film,MCU,GG,Guardians of the Galaxy,8/1/14,James Gunn,Two,N,0,333176600,439600000,772776600,195900000,0.91,76,A
+11,Avengers: Age of Ultron,Film,MCU,A2,Avengers,5/1/15,Joss Whedon,Two,Y,0,459005868,943800000,1402805868,365500000,0.75,66,A
+12,Ant-Man,Film,MCU,AM,Ant-Man,7/17/15,Peyton Reed,Two,N,0,180202163,339109802,519311965,109300000,0.83,64,A
+13,Captain America: Civil War,Film,MCU,CA3,Captain America,5/6/16,Anthony and Joe Russo,Three,Y,0,408084349,745211944,1153296293,230000000,0.91,75,A
+14,Doctor Strange,Film,MCU,DS,Doctor Strange,11/4/16,Scott Derrickson,Three,N,0,232641920,445076475,677718395,165000000,0.89,72,A
+15,Guardians of the Galaxy Vol. 2,Film,MCU,GG2,Guardians of the Galaxy,5/5/17,James Gunn,Three,N,0,389813101,473942950,863756051,200000000,0.84,67,A
+16,Spider-Man: Homecoming,Film,MCU,SM,Spider-Man,7/7/17,Jon Watts,Three,Y,0,334201140,545965784,880166924,175000000,0.92,73,A
+17,Thor: Ragnarok,Film,MCU,T3,Thor,11/3/17,Taika Waititi,Three,N,0,315058289,538918837,853977126,180000000,0.93,74,A
+18,Black Panther,Film,MCU,BP,Black Panther,2/16/18,Ryan Coogler,Three,N,0,700059566,646853595,1346913161,200000000,0.97,88,A+
+19,Avengers: Infinity War,Film,MCU,A3,Avengers,4/27/18,Anthony and Joe Russo,Three,Y,0,678815482,1369544272,2048359754,400000000,0.85,68,A
+20,Ant-Man and the Wasp,Film,MCU,AM2,Ant-Man,7/6/18,Peyton Reed,Three,N,0,216648740,406025399,622674139,162000000,0.88,70,A−
+21,Captain Marvel,Film,MCU,CM,Captain Marvel,3/8/19,Anna Boden and Ryan Fleck,Three,N,0,426829839,701444955,1128274794,175000000,0.78,64,A
+22,Avengers: Endgame,Film,MCU,A4,Avengers,4/26/19,Anthony and Joe Russo,Three,Y,0,858373000,1939427564,2797800564,356000000,0.94,78,A+
+23,Spider-Man: Far From Home,Film,MCU,SM2,Spider-Man,7/2/19,Jon Watts,Three,N,0,390532085,741395911,1131927996,160000000,0.91,69,A
+1001,WandaVision,Series,MCU,WV,WandaVision,1/15/21,,Four,N,1,,,,,,,
+1002,The Falcon and the Winter Soldier,Series,MCU,FWS,Falcon and the Winter Soldier,3/19/21,,Four,N,1,,,,,,,
+1003,Loki,Series,MCU,L,Loki,6/9/21,,Four,N,1,,,,,,,
+24,Black Widow,Film,MCU,BW,Black Widow,7/9/21,Cate Shortland,Four,N,1,183700000,195700000,379400000,200000000,0.79,67,A-
+1004,What If...?,Series,MCU,WI,What If...?,8/11/21,,Four,N,1,,,,,,,
+25,Shang-Chi and the Legend of the Ten Rings,Film,MCU,SC,Shang-Chi,9/3/21,Destin Daniel Cretten,Four,N,1,,,,,0.92,71,A
+26,Eternals,Film,MCU,E,Eternals,11/5/21,Chloe Zhao,Four,N,1,,,,,,,
+1005,Hawkeye,Series,MCU,HE,Hawkeye,11/24/21,,Four,N,1,,,,,,,
+27,Spider-Man: No Way Home,Film,MCU,SM3,Spider-Man,12/17/21,Jon Watts,Four,N,1,,,,,,,
+1006,Moon Knight,Series,MCU,MN,Moon Knight,3/30/22,,Four,N,1,,,,,,,
+28,Doctor Strange in the Multiverse of Madness,Film,MCU,DS2,Doctor Strange,5/6/22,Sam Raimi,Four,N,1,,,,,,,
+1007,Ms. Marvel,Series,MCU,MM,Ms. Marvel,,,Four,N,1,,,,,,,
+29,Thor: Love and Thunder,Film,MCU,T4,Thor,7/7/22,Taika Waititi,Four,N,1,,,,,,,
